@@ -35,3 +35,6 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//Stack(Primitive Data Type) & Heap(Non-Primitive Data Type)
+//Stack returns change only in the copy, But Heap points to the original Data. 
